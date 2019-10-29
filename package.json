@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-cms",
+  "version": "1.0.0",
+  "description": "combine nuxt with netlify cms",
+  "author": "Kelvin Kwong Ho",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
